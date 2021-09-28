@@ -54,7 +54,8 @@ p{
 a{
   font-size: 16px;
   color: #c12258;
-  text-decoration: underline;
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
 }
 
 /*Req 5*/
@@ -73,7 +74,7 @@ td{
 
 
 .colhead{
-  width:125px;
+  mid-width:125px;
   color: #FFFFFF;
   padding:10px;
   text-align: center;
